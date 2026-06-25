@@ -1,13 +1,10 @@
-# 👩🏻‍💻 Lucas Ferreira Barcelos
+# 👨🏻‍💻 Lucas Ferreira Barcelos
 
 **`Estudante de Ciência da Computação`**
 
 Olá! Sou **Lucas Ferreira Barcelos**, estudante de **Ciência da Computação** na **UERJ-ZO**.
-Atualmente, estou aprofundando meus conhecimentos em **bancos de dados**, **análise de dados** e **automação de processos**, com foco nas seguintes tecnologias:
-- **Banco de Dados:** MySQL
-- **Programação e Automação:** Python e n8n
-- **Análise e Visualização de Dados:** Excel e Power BI
-Busco desenvolver projetos práticos que transformem dados e processos em soluções úteis, organizadas e escaláveis.
+Atualmente, estou aprofundando meus conhecimentos em **bancos de dados**, **análise de dados** e **automação de processos**. Busco desenvolver projetos práticos que transformem dados e processos em soluções úteis, organizadas e escaláveis.
+
 Estou aberto a colaborações em projetos, oportunidades de estágio e experiências que contribuam para minha evolução profissional na área de tecnologia.
 
 <p align="left"> 
@@ -65,14 +62,6 @@ Estou aberto a colaborações em projetos, oportunidades de estágio e experiên
 />
 <img 
     align="left" 
-    alt="C" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
     alt="MySQL" 
     title="MySQL"
     width="30px" 
@@ -94,14 +83,6 @@ Estou aberto a colaborações em projetos, oportunidades de estágio e experiên
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JSON" 
-    title="JSON"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" 
 />
 
 <br/>
