@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência da Computação`**
 
-Olá! Sou **Lucas Ferreira Barcelos**, estudante de **Ciência da Computação** na **UERJ-ZO**.
+Me chamo **Lucas Ferreira Barcelos**, estudante de **Ciência da Computação** na **UERJ-ZO**.
 Atualmente, estou aprofundando meus conhecimentos em **bancos de dados**, **análise de dados** e **automação de processos**. Busco desenvolver projetos práticos que transformem dados e processos em soluções úteis, organizadas e escaláveis.
 
 Estou aberto a colaborações em projetos, oportunidades de estágio e experiências que contribuam para minha evolução profissional na área de tecnologia.
